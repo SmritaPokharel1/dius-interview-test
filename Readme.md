@@ -1,4 +1,4 @@
-#Overview
+#### Overview
 
 The application is divided into two modules:
 1. checkout : Consists of business logic to checkout items.
@@ -8,7 +8,7 @@ The application is divided into two modules:
    - RulesEngine to add and get pricing rules.  
    
 
-#Rules engine
+#### Rules engine
 
 * Types of rules: 
   
@@ -35,7 +35,7 @@ The application is divided into two modules:
   
         - rulesEngine.addRule(bundleRule);
 
-#Checkout module 
+#### Checkout module 
 
 Injecting rules to checkout service
 
@@ -49,7 +49,7 @@ Totaling Items
 
     - double total = checkoutService.total();
 
-#Test cases
+#### Test cases
 
 1. Test cases for example scenarios as mentioned below:
 
