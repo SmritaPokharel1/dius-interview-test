@@ -62,3 +62,5 @@ can be found at `test/java/com.shoppingcart.checkout.service.CheckoutServiceTest
    * `test/java/com.shoppingcart.rules.service.BulkDiscountRuleTest.java`
    * `test/java/com.shoppingcart.rules.service.BundleRuleTest.java`
 
+
+This application has been built using gradle and IntellijIdea. Test cases have been implemented using junit5.
